@@ -1,29 +1,26 @@
 @charset "UTF-8";
 
 header {
-    background: #ffcccc;
+    background-color: #ffcccc;
     width: 1000px;
-    margin: 0 auto;
 }
 
 #wrapper {
-    max-width: 1000px;
-    margin: 0 auto;
+    width: 1000px;
     display: flex;
 }
 
 #main {
-    background: #ccffcc;
+    background-color: #ccffcc;
     width: 700px;
 }
 
 #menu {
-    background: #ccccff;
+    background-color: #ccccff;
     width: 300px;
 }
 
 footer {
-    background: #ffccff;
+    background-color: #ffccff;
     width: 1000px;
-    margin: 0 auto;
 }
